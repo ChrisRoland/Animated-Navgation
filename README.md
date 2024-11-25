@@ -1,3 +1,3 @@
 # Animated-Navgation
 
-- Live Demo: https://chrisroland.github.io/Animated-Navigation
+- Live Demo: https://chrisroland.github.io/Animated-Navgation/
