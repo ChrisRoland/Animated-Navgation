@@ -62,7 +62,6 @@ nav ul li {
 nav.active ul li {
     opacity: 1;
     transform: rotateY(360deg);
-    pointer-events: auto;
 }
 
 nav ul li a {
